@@ -1,3 +1,7 @@
+• Built a rudimentary database engine that is loosely based on a hybrid between MySQL and SQLite using Java
+• Implementation should operate entirely from the command line and API calls (no GUI)
+----------------------------------------------------------------------------------------------------------------------------------
+
 README
 
 1. Open the project in Eclipse or in command prompt (if Java_Home and ClassPath variables are initialized.)
